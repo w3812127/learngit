@@ -6,5 +6,9 @@ Create a new branch is quick and simple.
 
 Create a new branch is feature and simple.
 ago 1 min
+<<<<<<< HEAD
 this is new change1
+=======
+Crate a new branch is dev simple.
+>>>>>>> dev
 
