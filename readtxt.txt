@@ -4,5 +4,5 @@ hello!
 
 Create a new branch is quick and simple.
 
-Create a new branch is feature AND simple.
+Create a new branch is feature &&& simple.
 
